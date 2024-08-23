@@ -8,9 +8,9 @@
 
 <h1 align="center">Adesso New User Form</h1>
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/adesso-new-user-form?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/V1t0n3/adesso-new-user-form?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/adesso-new-user-form?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/V1t0n3/adesso-new-user-form?color=56BEB8" /> -->
 
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/adesso-new-user-form?color=56BEB8" /> -->
 </p>
@@ -21,7 +21,7 @@ Status
 	🚧  Adesso New User Form 🚀 Under construction...  🚧
 </h4> 
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -29,7 +29,7 @@ Status
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/V1t0n3" target="_blank">Author</a>
 </p>
 
 <br>
