@@ -15,7 +15,7 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/adesso-new-user-form?color=56BEB8" /> -->
 </p>
 
-<!-->Status
+<!-- Status -->
 
 <h4 align="center"> 
 	🚧  Adesso New User Form 🚀 Under construction...  🚧
