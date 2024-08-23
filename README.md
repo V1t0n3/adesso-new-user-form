@@ -48,7 +48,7 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Vitejs] (https://vitejs.dev)
+- [Vitejs](https://vitejs.dev)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
